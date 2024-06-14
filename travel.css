@@ -1,0 +1,76 @@
+body {
+    background-image: url(images/bground.jpg);
+  }
+  #navbar{
+background-color: black;
+height: 150%;
+margin-top: 0%;
+padding: 0;
+overflow: hidden;
+}
+#urls{
+
+}
+ul {
+    list-style-type: none;
+    display: inline;
+    margin-left: 20%;
+
+
+  }
+  
+  li {
+    float: left;
+
+  }
+  #searchform{
+    float: right;
+    display: inline;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  
+  li a:hover {
+    background-color: green;
+  }
+  H1 {
+color: WHITE;
+
+  }
+  #dream{
+    text-align: justify;
+    margin-top: 10%;
+    margin-left: 20%;
+  }
+  #intro h6{
+    color: white;
+    margin-left: 20%;
+
+
+  }
+  #booking{
+    margin-left: 20%;
+  }
+  #info{
+
+    color:white;
+    margin-left: 20%;
+  }
+  #team{
+    color: white;
+    margin-top: 10%;
+    margin-left: 20%;
+  }
+  #form{
+
+    margin-left: 40%;
+  
+
+  }
